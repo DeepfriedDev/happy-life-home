@@ -44,6 +44,8 @@ Check out thier [Coronavirus Topic](https://www.brainpop.com/health/diseasesinju
 
 [Scratch](https://scratch.mit.edu/)
 
+[Sonic Pi](https://sonic-pi.net/)
+
 ## Videos
 
 #### Curated video collections for videos with educational content. Watch, Enjoy, Discuss.
