@@ -24,7 +24,7 @@ Currently COVID-19 is forcing us to take part in social distancing and many scho
 
 ## [Khan Academy](https://www.khanacademy.org/)
 
-A Shared [Lesson Plan](https://docs.google.com/document/d/e/2PACX-1vSZhOdEPAWjUQpqDkVAlJrFwxxZ9Sa6zGOq0CNRms6Z7DZNq-tQWS3OhuVCUbh_-P-WmksHAzbsrk9d/pub) from Khan Academy with a nice guide of planning out the day.
+A Shared [Lesson Plan](https://docs.google.com/document/d/e/2PACX-1vSZhOdEPAWjUQpqDkVAlJrFwxxZ9Sa6zGOq0CNRms6Z7DZNq-tQWS3OhuVCUbh_-P-WmksHAzbsrk9d/pub) from Khan Academy with a nice guide of planning out the day, along with a [guide to home learning](https://khanacademy.zendesk.com/hc/en-us/articles/360040167432-How-can-Khan-Academy-be-used-for-remote-learning-during-school-closures-) during school closures.
 
 ### [GCompris](https://gcompris.net/index-en.html)
 
