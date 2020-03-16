@@ -41,12 +41,18 @@ Coyote Peterson is the Steve Irwin of Youtube. Amazing and Informative nature vi
 
 #### This list contains games that are fun for all the family.
 
-### [Minecraft](https://minecraft.net)
+### [Minecraft](https://minecraft.net)[~$30 / £25]
 
 Easy to together as a family as cross device multiplayer on a LAN connection is possible. As a bonus, check out the [Education Edition](https://education.minecraft.net/) 
 
-[Spleunkey](https://spelunkyworld.com/index.html)
+### [Spleunkey](https://spelunkyworld.com/index.html) [~$10 / £8]
 
-[Poly Bridge](http://polybridge.drycactus.com/)
+2D Platformer.
+
+### [Poly Bridge](http://polybridge.drycactus.com/)
 
 Fun Bridge Building game thats available
+
+### [Planet Zoo](https://www.planetzoogame.com/en-GB)
+
+
