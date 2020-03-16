@@ -9,7 +9,7 @@ Currently COVID-19 is forcing us to take part in social distancing and many scho
 - [Online Resources](#online)
   - [Khan Academy](#KhanAcademy)
 - [Health and Wellbeing](#health)
-  - [Mindfulness](#mindfulness)
+  - [Mindfulness](#mindfullness)
 - [Videos](#videos)
 - [Coding](#coding)
   - [Scratch](#scratch)
