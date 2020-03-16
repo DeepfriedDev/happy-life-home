@@ -7,7 +7,12 @@ Currently COVID-19 is forcing us to take part in social distancing and many scho
 ## Contents
 
 - [Online Resources](#online)
+  - [Khan Academy(#KhanAcademy)
+- [Health and Wellbeing](#health)
+  - [Midfulness](#mindfulness)
 - [Videos](#videos)
+- [Coding](#coding)
+  - [Scratch](#scratch)
 - [YouTubers](#Youtubers)
 - [Projects](#Projects)
 - [Games](#games)
@@ -16,6 +21,10 @@ Currently COVID-19 is forcing us to take part in social distancing and many scho
 
 ## Online Materials
 
+## [Khan Academy]
+
+A Shared [Lesson Plan](https://docs.google.com/document/d/e/2PACX-1vSZhOdEPAWjUQpqDkVAlJrFwxxZ9Sa6zGOq0CNRms6Z7DZNq-tQWS3OhuVCUbh_-P-WmksHAzbsrk9d/pub) from Khan Academy with a nice guide of planning out the day.
+
 ### [GCompris](https://gcompris.net/index-en.html)
 
 ### [Brain Pop](https://www.brainpop.com/) *[free access to closed schools]
@@ -23,7 +32,19 @@ Currently COVID-19 is forcing us to take part in social distancing and many scho
 A wide collection of topics and videos, coupled together with Lesson plans. Offering free access to those with school closures.
 Check out thier [Coronavirus Topic](https://www.brainpop.com/health/diseasesinjuriesandconditions/coronavirus/)
 
+## Health
+
+### Mindfullness
+
+[Waking up](https://wakingup.com/children/)
+
+[Headspace](https://www.headspace.com/meditation/kids)
+ 
 ## Videos
+
+## Coding
+
+[Scratch](https://scratch.mit.edu/)
 
 #### Curated video collections for videos with educational content. Watch, Enjoy, Discuss.
 
