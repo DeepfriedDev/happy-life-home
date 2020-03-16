@@ -42,9 +42,9 @@ Check out thier [Coronavirus Topic](https://www.brainpop.com/health/diseasesinju
 
 ## Coding
 
-##### [Scratch](https://scratch.mit.edu/)
+#### [Scratch](https://scratch.mit.edu/)
 
-##### [Sonic Pi](https://sonic-pi.net/)
+#### [Sonic Pi](https://sonic-pi.net/)
 
 ## Videos
 
