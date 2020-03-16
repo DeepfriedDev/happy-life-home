@@ -39,12 +39,12 @@ Check out thier [Coronavirus Topic](https://www.brainpop.com/health/diseasesinju
 [Waking up](https://wakingup.com/children/)
 
 [Headspace](https://www.headspace.com/meditation/kids)
- 
-## Videos
 
 ## Coding
 
 [Scratch](https://scratch.mit.edu/)
+
+## Videos
 
 #### Curated video collections for videos with educational content. Watch, Enjoy, Discuss.
 
