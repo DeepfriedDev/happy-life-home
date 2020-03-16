@@ -11,6 +11,7 @@ Currently COVID-19 is forcing us to take part in social distancing and many scho
 - [YouTubers](#Youtubers)
 - [Games](#games)
 - [Books](#books)
+- FB Groups(#fbgroups)
 
 ## Online Materials
 
@@ -56,3 +57,11 @@ Fun Bridge Building game thats available
 ### [Planet Zoo](https://www.planetzoogame.com/en-GB)
 
 ## Books
+
+## Facebook Groups
+
+#### I have not vetted these FB Groups as im not a FB User. If you are though, proceed with caution. FB is the Mos Eisley of the Internet.
+
+### [Temporary Home Education Families](https://www.facebook.com/groups/1788992361238092/)
+
+### [Pandemic Home Education Group](https://www.facebook.com/groups/297366181223860/)
