@@ -21,7 +21,7 @@ Currently COVID-19 is forcing us to take part in social distancing and many scho
 
 ## Online Materials
 
-## [Khan Academy]
+## [Khan Academy](https://www.khanacademy.org/)
 
 A Shared [Lesson Plan](https://docs.google.com/document/d/e/2PACX-1vSZhOdEPAWjUQpqDkVAlJrFwxxZ9Sa6zGOq0CNRms6Z7DZNq-tQWS3OhuVCUbh_-P-WmksHAzbsrk9d/pub) from Khan Academy with a nice guide of planning out the day.
 
