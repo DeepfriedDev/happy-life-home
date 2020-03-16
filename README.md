@@ -1,4 +1,4 @@
-# happy-life-home
+# HappyLife Home
 A list of learning resources. You know, for kids.
 
 Currently COVID-19 is forcing us to take part in social distancing and many schools are being closed for various lengths and as a parent it can be hard to fill the on-coming days with activities. Here is an attempt to compile a list of some great STEM orientaited activites that should help fill that void. 
@@ -9,6 +9,7 @@ Currently COVID-19 is forcing us to take part in social distancing and many scho
 - [Online Resources](#online)
 - [Videos](#videos)
 - [YouTubers](#Youtubers)
+- [Projects](#Projects)
 - [Games](#games)
 - [Books](#books)
 - [FB Groups](#fbgroups)
